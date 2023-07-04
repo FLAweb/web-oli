@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#img-oli {
+    width: 100%;
+    background: lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#img-oli img {
+    width: 70%;
+    border-radius: 40px;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: red;
+    background-color: blue;
+    border: double 10px rgba(0, 0, 0, 0.324);
+    border-radius: 30px;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: red;
+    background-color: blue;
+    border: double 10px rgba(0, 0, 0, 0.324);
+    border-radius: 30px;
+}
+
+#video-oli {
+    width: 70%;
+    border-radius: 30px;
+}
